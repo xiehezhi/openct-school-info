@@ -171,6 +171,12 @@
     "cmsSys": "zfsoft",
     "libURL": "http://ggjs.heuet.edu.cn:8080/"
   },
+ {
+  "name": "河北工程大学(仅教育网)",
+  "cmsURL": "http://202.206.161.173/urp.htm",
+  "cmsSys": "zfsoft",
+  "liURL": "http://202.206.161.174:9080/",
+  },
   {
     "name": "湖北经济学院(仅教务网)",
     "cmsURL": "http://218.197.80.10/",
